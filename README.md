@@ -671,6 +671,15 @@ They are intended specifically for **Flutter/frontend integration support**.
 
 
 ---
+## 📚 Technical Documentation
+
+We have prepared comprehensive documentation for the backend system:
+
+* [Frontend API Reference](docs/FRONTEND_API.md)
+* [AI Service Integration Contract](docs/AI_INTEGRATION_CONTRACT.md)
+* [Backend Business Flows & Architecture](docs/BACKEND_ARCHITECTURE.md)
+
+---
 
 # API Documentation
 
